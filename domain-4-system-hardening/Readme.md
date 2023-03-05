@@ -16,13 +16,13 @@ The code mentioned in this document are used in the Certified Kubernetes Securit
 | 8 | [Understanding Network Policies - Part 02][PlDh] |
 
 
-   [PlDa]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/apparmor.md>
-   [PlDb]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/apparmor-k8s.md>
-   [PlDc]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/oci.md>
-   [PlDd]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/kubeadm-containerd.md>
+   [PlDa]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/apparmor.md>
+   [PlDb]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/apparmor-k8s.md>
+   [PlDc]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/oci.md>
+   [PlDd]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/kubeadm-containerd.md>
 
-   [PlDe]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/gvisor.md>
+   [PlDe]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/gvisor.md>
 
-   [PlDf]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/kubeadm-calico.md>
-   [PlDg]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/netpol.md>
-   [PlDh]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-4-system-hardening/netpol-02.md>
+   [PlDf]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/kubeadm-calico.md>
+   [PlDg]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/netpol.md>
+   [PlDh]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-4-system-hardening/netpol-02.md>

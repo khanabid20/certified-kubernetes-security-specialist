@@ -18,12 +18,12 @@ The code mentioned in this document are used in the Certified Kubernetes Securit
 
 
 
-   [PlDa]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/user-rbac.md>
-   [PlDb]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/rbac.md>
-   [PlDc]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/clusterrole.md>
-   [PlDd]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/deploying-ingress.md>
+   [PlDa]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/user-rbac.md>
+   [PlDb]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/rbac.md>
+   [PlDc]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/clusterrole.md>
+   [PlDd]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/deploying-ingress.md>
 
-   [PlDe]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/ingress-security.md>
+   [PlDe]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/ingress-security.md>
 
-   [PlDf]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/sa-security.md>
-   [PlDg]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/master/domain-2-cluster-hardening/kubeadm-version.md>
+   [PlDf]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/sa-security.md>
+   [PlDg]: <https://github.com/khanabid20/certified-kubernetes-security-specialist/blob/main/domain-2-cluster-hardening/kubeadm-version.md>
